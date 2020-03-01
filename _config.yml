@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Michael Jennings"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Im a Maintenance Control Section Manager with two years experience in Data Management. The go to person in the office, due to a lifetime of experience in IT. "
+  bio    : "Aspiring Data Scientist. Currently working as a Data Management Officer on Aviation Maintenance Documentation"
   links:
     - label: "Kaggle"
       icon: "fas fa-fw fa-link"
