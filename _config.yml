@@ -58,22 +58,20 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Michael Jennings"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I’m a Maintenance Control Section Manager with two years’ experience in Data Management. The go to person in the office, due to a lifetime of experience in IT. "
   links:
-    - label: "Website"
+    - label: "Kaggle"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://www.kaggle.com/snicky666"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-link"
+      url: "www.linkedin.com/in/MichaelJenningsAI"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/MichaelJenningsAI"
+
 
 footer:
   links:
