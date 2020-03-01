@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Michael Jennings"
+  name   : ""
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Aspiring Data Scientist. Currently working as a Data Management Officer on Aviation Maintenance Documentation"
   links:
